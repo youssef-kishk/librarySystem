@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1513727856 source:e:\college\term5\prog1\librarysystemnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Book.h"
+	"Member.h"
+	"Borrowed.h"
+
+1513726727 e:\college\term5\prog1\librarysystemnew\book.h
+
+1513724191 e:\college\term5\prog1\librarysystemnew\member.h
+
+1513724593 e:\college\term5\prog1\librarysystemnew\borrowed.h
+
+1513781567 source:e:\college\term5\prog1\final project\librarysystemnew\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Book.h"
+	"Member.h"
+	"Borrowed.h"
+
+1513726727 e:\college\term5\prog1\final project\librarysystemnew\book.h
+
+1513724191 e:\college\term5\prog1\final project\librarysystemnew\member.h
+
+1513724593 e:\college\term5\prog1\final project\librarysystemnew\borrowed.h
+

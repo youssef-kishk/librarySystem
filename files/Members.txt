@@ -1,0 +1,5 @@
+ahmed,hamdy,95314,35,Shatby,Alexandria,123456789,26,ahmed@gmail.com,0
+adham,yasser,3913,40,sedi gaber,alexandria,1347921562,19,adham@yahoo.com,0
+mahmoud,hassan,3919,15,kafr abdou,alexandria,455164464,25,mahmoud@gmail.com,0
+adel,atef,3960,53,esmail fsfs,alexandria,12536712,20,adel@yahoo.com,0
+youssef,kishk,3812,5,sdds,alexandria,15135791,20,ykishk@hotmail.com,0

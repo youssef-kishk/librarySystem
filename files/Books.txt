@@ -1,0 +1,8 @@
+c how to program,paul deitel,Pearson Education. Inc,0-13-612356-2,29/10/2009,18,18,Programming,3
+small favor,Jim Butcher,White Night,0-13-368426,1/4/2008,10,10,Novel,2
+ghoul goblin,Jim Butcher,Fool Moon,0-12-851467,11/8/2013,6,7,Science,1
+five star billionaire,Tash Aw,Alyson Books,816423715,10/8/2013,4,4,Novel,0
+the kills,Richard House,Black Library,4230-4257,5/11/2001,9,9,Novel,4
+transatlantic,Colum McCann,David & Charles,1-4257-251,23/5/2013,5,5,Fiction,1
+exit west,Mohsin Hamid,Allison and Busby,812881667,7/11/2017,10,6,Fiction,6
+zoli,Colum McCann,Deseret Book,5-51245234,2/1/2004,19,9,History,11
